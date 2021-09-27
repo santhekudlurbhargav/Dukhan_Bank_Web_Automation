@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\GIT\\Dukhan_Bank_Web_Automation\\Scripts\\GUITest2\\Res2',namePairs:[]}]};
